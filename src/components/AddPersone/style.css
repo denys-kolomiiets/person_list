@@ -1,0 +1,10 @@
+.add__form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.add__input {
+  border-radius: 12px;
+}
